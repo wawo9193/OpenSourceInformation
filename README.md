@@ -1,7 +1,7 @@
-# OpenSourceInformation
+# Open Source
 This repo will be a markdown of information on contributing to open source projects.
 
-
+---
 
 # Benefits of contributing to open source projects
 
