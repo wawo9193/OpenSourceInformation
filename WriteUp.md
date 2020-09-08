@@ -29,3 +29,4 @@ This repo will be a markdown of information on contributing to open source proje
 # How to contribute to open source projects
 ---
 
+    To be continued next week...
